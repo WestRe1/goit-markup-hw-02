@@ -108,7 +108,7 @@ ul {
 }
 /* Team */
 .section-team {
-    background-color: var(--main-font-color);
+    background-color: var(--section-team-bg-color);
 }
 .team-list {
     background-color: var(--main-light-color);
